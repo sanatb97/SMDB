@@ -15,6 +15,6 @@
   <ul>
   <li>$sudo su postgres</li>
   <li>$psql</li>
-  <li>\c smdb<\li>
+  <li>\c smdb
     </ul>
     </h4>
