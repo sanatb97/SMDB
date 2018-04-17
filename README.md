@@ -18,6 +18,7 @@
   <li>\c smdb
     </ul>
     </h4>
+    <br><br>
 <h4>Order of Execution:<br>
 <ul><li>$psql -af smd_schema.sql</li>
   <li>$psql -af insert_values.sql</li>
