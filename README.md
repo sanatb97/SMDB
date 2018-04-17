@@ -18,3 +18,10 @@
   <li>\c smdb
     </ul>
     </h4>
+<h4>Order of Execution:<br>
+<ul><li>$psql -af smd_schema.sql</li>
+  <li>$psql -af insert_values.sql</li>
+  <li>$psql -af views.sql</li>
+  <li>$psql -af show_table_values.sql</li>
+  <li>$psql -af show_view_values</li>
+  </h4>
